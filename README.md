@@ -3,8 +3,10 @@
 - Sou programador trainee
 - Atualmente estudando HTML, CSS e JavaScript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLIma-15&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima-15&size_weight=0.5&count_weight=0.5&theme=dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLIma-15&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima-15&size_weight=0.5&count_weight=0.5&theme=dark)-->
+
+<!--https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance-->
 
 <div style="display: inline_block"><br>
 <!--  <img align="center" alt="Luka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
